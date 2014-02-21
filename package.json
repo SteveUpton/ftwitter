@@ -1,17 +1,17 @@
 { 
-  "name": "ntwitter", 
-  "version": "0.5.0",
-  "description": "Asynchronous Twitter REST/stream/search client API for node.js.", 
+  "name": "ftwitter", 
+  "version": "0.1.0",
+  "description": "Drop in replacement for ntwitter that supplies fake data without the need for OAuth keys.", 
   "keywords": ["twitter","streaming","oauth"], 
-  "homepage": "https://github.com/AvianFlu/ntwitter", 
-  "author": "jdub, changes by AvianFlu", 
+  "homepage": "https://github.com/SteveUpton/ftwitter", 
+  "author": "Steve Upton. Original ntwitter by jdub and AvianFlu", 
   "licenses": { 
     "type": "MIT", 
-    "url": "http://github.com/AvianFlu/ntwitter/raw/master/LICENSE"
+    "url": "https://github.com/SteveUpton/ftwitter/blob/master/LICENSE"
   },
   "repository": { 
     "type": "git", 
-    "url": "http://github.com/AvianFlu/ntwitter.git"
+    "url": "https://github.com/SteveUpton/ftwitter.git"
   }, 
   "dependencies": { 
     "oauth": ">=0.8.4", 
