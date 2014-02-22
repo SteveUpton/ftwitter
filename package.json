@@ -2,7 +2,7 @@
   "name": "ftwitter", 
   "version": "0.1.0",
   "description": "Drop in replacement for ntwitter that supplies fake data without the need for OAuth keys.", 
-  "keywords": ["twitter","streaming","oauth"], 
+  "keywords": ["twitter","streaming","oauth","fake"], 
   "homepage": "https://github.com/SteveUpton/ftwitter", 
   "author": "Steve Upton. Original ntwitter by jdub and AvianFlu", 
   "licenses": { 
@@ -23,5 +23,5 @@
     "mocha": "*"
   },
   "engines": {"node":">=0.4.0"}, 
-  "main": "./lib/twitter"
+  "main": "./lib/ftwitter"
 }
