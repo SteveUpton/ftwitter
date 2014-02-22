@@ -5,7 +5,7 @@ Drop in replacement for [ntwitter](http://github.com/AvianFlu/ntwitter) that sup
 
 ## Installation
 
-Until I publish to npm, you'll just have to download the files and extract them to the node_modules dir of your project.
+You can install ftwitter and its dependencies with npm: `npm install ftwitter`.
 
 ## Getting started
 
