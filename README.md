@@ -33,4 +33,4 @@ Streaming.
 
 Everything else.
 
-Until I implement a 'faked' version of a given feature, I'll leave existing code as is, meaning it should function as ntwitter d
+Until I implement a 'faked' version of a given feature, I'll leave existing code as is, meaning it should function as ntwitter did.
